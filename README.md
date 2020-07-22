@@ -1,4 +1,6 @@
-# Snakes-with-Me https://forthebadge.com/images/badges/made-with-python.svg
+# Snakes-with-Me 
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 A Snakes game made using Python
 
 This Snake Game Is Made Using Python 3 & Pygame Module. Hope You Will Like the Game, You can use the code to make your own versions of game.
